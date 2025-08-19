@@ -1,0 +1,6 @@
+ENTIDADE: No conceito de Banco de Dados é uma tabela.
+
+Cliente: 
+Usuário: 
+Venda: 
+Produto: 
